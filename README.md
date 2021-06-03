@@ -1,5 +1,5 @@
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZNoJsHNAmvUTVu7xLJQVnHOJYZ-bVw41?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Lfn5c31x4eAeVLdfuJH0XlsEeHoCSC6v#scrollTo=ICmshz3MoY02)
 # Proyecto final de Inteligencia Artificial
 ---
 Este proyecto tiene como fin desarrollar una red recurrente tipo LSTM capaz de estimar correctamente el número total de casos de COVID-19 en Paraguay.
